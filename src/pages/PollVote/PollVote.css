@@ -1,0 +1,58 @@
+body{
+    background-image:url("whiteBG.png");
+    object-fit:cover;
+    background-repeat: no-repeat;
+    background-position:center top;
+    background-color: rgb(79, 167, 173);
+}
+
+.form-buttonSubmit{
+    color:white;
+    background-color:black;
+    
+    transition:0.2s;
+}
+
+.form-buttonSubmit:hover{
+    cursor:pointer;
+    color:black;
+    /*transform:translateY(-15px);*/
+    background-color:yellow;
+}
+
+.header-link{
+    font-family:'Comic Sans MS',sans-serif;
+    color:rgb(19, 18, 18);
+    transition:0.2s;
+    
+    /*background-color:rgb(5, 199, 253)*/
+}
+
+.header-link:hover{
+    color:rgb(255, 145, 2);
+}
+
+.header-title{
+    font-family:'Comic Sans MS',sans-serif;
+}
+.form-buttonOption{
+    cursor:pointer;
+    color:white;
+    background-color:black;
+}
+.form-option{
+    color:white;
+    background-color:black;
+}
+.form-label{
+    color:black;
+}
+.form-button{
+    color:white;
+}
+.pageHeader{
+    border-bottom: dashed 2px #6594e0;
+}
+/*
+#Reset{
+}*/

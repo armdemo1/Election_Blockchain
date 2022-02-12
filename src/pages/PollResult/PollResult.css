@@ -1,0 +1,27 @@
+.boxLight {
+  background: #6ddae9;
+  border: none;
+  border-radius: .3em;
+  padding: .4em .7em;
+  margin: .2em .7em .2em 0;
+  display: inline-block;
+  font-size: .85em;
+}
+
+.notification {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+}
+.form-button{
+  background: #000000;
+  cursor:pointer;
+}
+.section{
+  background: rgba(255, 255, 255, 0.466) ;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  padding: 25px;
+  color: #333;
+  margin: 10px 0;
+  position: relative;
+}
